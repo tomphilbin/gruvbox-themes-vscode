@@ -1,0 +1,7 @@
+.vscode/**
+examples/**
+images/**
+
+!images/icon.png
+.gitignore
+CHANGELOG.md

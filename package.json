@@ -1,0 +1,47 @@
+{
+    "name": "gruvbox-themes",
+    "displayName": "Gruvbox Themes",
+    "description": "All gruvbox themes for Visual Studio Code.",
+    "version": "1.0.0",
+    "publisher": "tomphilbin",
+    "engines": {
+        "vscode": "^1.11.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gruvbox Dark (Hard)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-hard.tmTheme"
+            },
+            {
+                "label": "Gruvbox Dark (Medium)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-medium.tmTheme"
+            },
+            {
+                "label": "Gruvbox Dark (Soft)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-soft.tmTheme"
+            },
+            {
+                "label": "Gruvbox Light (Hard)",
+                "uiTheme": "vs",
+                "path": "./themes/light-hard.tmTheme"
+            },
+            {
+                "label": "Gruvbox Light (Medium)",
+                "uiTheme": "vs",
+                "path": "./themes/light-medium.tmTheme"
+            },
+            {
+                "label": "Gruvbox Light (Soft)",
+                "uiTheme": "vs",
+                "path": "./themes/light-soft.tmTheme"
+            }
+        ]
+    }
+}
