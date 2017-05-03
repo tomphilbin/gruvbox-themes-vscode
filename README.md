@@ -1,5 +1,7 @@
 # Gruvbox Themes
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tomphilbin/gruvbox-themes-vscode.svg)](https://greenkeeper.io/)
+
 This extension includes all gruvbox themes for Visual Studio Code.
 
 > Designed as a bright theme with pastel 'retro groove' colors and light/dark mode switching in the way of solarized. The main focus when developing gruvbox was to keep colors easily distinguishable while still being pleasant on the eyes.
